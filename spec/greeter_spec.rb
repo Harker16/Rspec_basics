@@ -1,4 +1,4 @@
-require '../lib/greeter'
+require 'greeter'
 
 describe 'Greeter' do
 

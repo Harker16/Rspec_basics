@@ -1,2 +1,2 @@
-# Rspec_basics
+# rspec_basics
 Gaining an understanding of the fundamentals of Rspec
